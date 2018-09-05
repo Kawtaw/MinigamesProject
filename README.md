@@ -1,2 +1,0 @@
-# MinigamesProject
-Computer Pathway Project
